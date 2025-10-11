@@ -18,6 +18,8 @@ Manual: [please click this link](https://github.com/nomahi/HGN/raw/main/HGN_1.1-
 
 
 
+## Example code
+
 ```r
 
 #  R example code for implementing the hypergeometric-normal (HGN) random-effects model analysis with augmented pseudo-data
